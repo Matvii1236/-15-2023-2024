@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    color:aquamarine;
+    background-color: blue;
+}
+a{
+   background-color: blue;
+    color: white;
+    margin:30px;
+    text-decoration: none;
+    font-size: 25px; 
+}
+p{
+    text-align: center;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+    margin-right: 20px;
+}
+nav{
+    text-align: center;
+}
+img{
+    height: 200px;
+    width: 250px;
+}
+span{
+    background-color: aqua;
+    font-family: cursive;
+    font-size: 20px;
+}
+.catalog{
+    text-align: center;
+    background-color: bisque;
+    margin-top:300px;
+    margin-right: 20px;
+    font-size: 20px;
+    font-family: cursive;
+}
+footer img{
+    height:100px ;
+    width:100px ;
+}
